@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Material Design",
+      "palettes": [
+        { "name": "Red", "colors": ["#FFEBEE","#FFCDD2","#EF9A9A","#E57373","#EF5350","#F44336","#E53935","#D32F2F","#C62828","#B71C1C"] },
+        { "name": "Pink", "colors": ["#FCE4EC","#F8BBD0","#F48FB1","#F06292","#EC407A","#E91E63","#D81B60","#C2185B","#AD1457","#880E4F"] },
+        { "name": "Purple", "colors": ["#F3E5F5","#E1BEE7","#CE93D8","#BA68C8","#AB47BC","#9C27B0","#8E24AA","#7B1FA2","#6A1B9A","#4A148C"] },
+        { "name": "Deep Purple", "colors": ["#EDE7F6","#D1C4E9","#B39DDB","#9575CD","#7E57C2","#673AB7","#5E35B1","#512DA8","#4527A0","#311B92"] },
+        { "name": "Indigo", "colors": ["#E8EAF6","#C5CAE9","#9FA8DA","#7986CB","#5C6BC0","#3F51B5","#3949AB","#303F9F","#283593","#1A237E"] },
+        { "name": "Blue", "colors": ["#E3F2FD","#BBDEFB","#90CAF9","#64B5F6","#42A5F5","#2196F3","#1E88E5","#1976D2","#1565C0","#0D47A1"] },
+        { "name": "Light Blue", "colors": ["#E1F5FE","#B3E5FC","#81D4FA","#4FC3F7","#29B6F6","#03A9F4","#039BE5","#0288D1","#0277BD","#01579B"] },
+        { "name": "Cyan", "colors": ["#E0F7FA","#B2EBF2","#80DEEA","#4DD0E1","#26C6DA","#00BCD4","#00ACC1","#0097A7","#00838F","#006064"] },
+        { "name": "Teal", "colors": ["#E0F2F1","#B2DFDB","#80CBC4","#4DB6AC","#26A69A","#009688","#00897B","#00796B","#00695C","#004D40"] },
+        { "name": "Green", "colors": ["#E8F5E9","#C8E6C9","#A5D6A7","#81C784","#66BB6A","#4CAF50","#43A047","#388E3C","#2E7D32","#1B5E20"] },
+        { "name": "Light Green", "colors": ["#F1F8E9","#DCEDC8","#C5E1A5","#AED581","#9CCC65","#8BC34A","#7CB342","#689F38","#558B2F","#33691E"] },
+        { "name": "Lime", "colors": ["#F9FBE7","#F0F4C3","#E6EE9C","#DCE775","#D4E157","#CDDC39","#C0CA33","#AFB42B","#9E9D24","#827717"] },
+        { "name": "Yellow", "colors": ["#FFFDE7","#FFF9C4","#FFF59D","#FFF176","#FFEE58","#FFEB3B","#FDD835","#FBC02D","#F9A825","#F57F17"] },
+        { "name": "Amber", "colors": ["#FFF8E1","#FFECB3","#FFE082","#FFD54F","#FFCA28","#FFC107","#FFB300","#FFA000","#FF8F00","#FF6F00"] },
+        { "name": "Orange", "colors": ["#FFF3E0","#FFE0B2","#FFCC80","#FFB74D","#FFA726","#FF9800","#FB8C00","#F57C00","#EF6C00","#E65100"] },
+        { "name": "Deep Orange", "colors": ["#FBE9E7","#FFCCBC","#FFAB91","#FF8A65","#FF7043","#FF5722","#F4511E","#E64A19","#D84315","#BF360C"] },
+        { "name": "Brown", "colors": ["#EFEBE9","#D7CCC8","#BCAAA4","#A1887F","#8D6E63","#795548","#6D4C41","#5D4037","#4E342E","#3E2723"] },
+        { "name": "Grey", "colors": ["#FAFAFA","#F5F5F5","#EEEEEE","#E0E0E0","#BDBDBD","#9E9E9E","#757575","#616161","#424242","#212121"] },
+        { "name": "Blue Grey", "colors": ["#ECEFF1","#CFD8DC","#B0BEC5","#90A4AE","#78909C","#607D8B","#546E7A","#455A64","#37474F","#263238"] }
+      ]
+    },
+    {
+      "name": "Flat UI",
+      "palettes": [
+        { "name": "Turquoise", "colors": ["#1ABC9C","#48C9B0","#16A085","#0E6655"] },
+        { "name": "Emerald", "colors": ["#2ECC71","#58D68D","#27AE60","#1D8348"] },
+        { "name": "Peter River", "colors": ["#3498DB","#5DADE2","#2980B9","#1F618D"] },
+        { "name": "Amethyst", "colors": ["#9B59B6","#AF7AC5","#8E44AD","#6C3483"] },
+        { "name": "Wet Asphalt", "colors": ["#34495E","#5D6D7E","#2C3E50","#1B2631"] },
+        { "name": "Sun Flower", "colors": ["#F1C40F","#F4D03F","#F39C12","#B7950B"] },
+        { "name": "Carrot", "colors": ["#E67E22","#EB984E","#D35400","#A04000"] },
+        { "name": "Alizarin", "colors": ["#E74C3C","#EC7063","#C0392B","#922B21"] },
+        { "name": "Clouds", "colors": ["#ECF0F1","#F2F4F4","#BDC3C7","#85929E"] },
+        { "name": "Concrete", "colors": ["#95A5A6","#ABB2B9","#7F8C8D","#5D6D7E"] }
+      ]
+    },
+    {
+      "name": "iOS HIG",
+      "palettes": [
+        { "name": "System Red", "colors": ["#FF3B30","#FF453A","#FF6961","#FF6259","#FF2D55"] },
+        { "name": "System Orange", "colors": ["#FF9500","#FF9F0A","#FFB340","#FFAB40","#FF8C00"] },
+        { "name": "System Yellow", "colors": ["#FFCC00","#FFD60A","#FFE55C","#FFD426","#FFC900"] },
+        { "name": "System Green", "colors": ["#34C759","#30D158","#66D98A","#30DB5B","#28A745"] },
+        { "name": "System Mint", "colors": ["#00C7BE","#66D4CF","#00D4C8","#5DD5CF","#00B3A6"] },
+        { "name": "System Teal", "colors": ["#30B0C7","#40C8E0","#64D2E4","#5AC8FA","#2FA0BC"] },
+        { "name": "System Cyan", "colors": ["#32ADE6","#64D2FF","#40B4ED","#5AC8FA","#2289C4"] },
+        { "name": "System Blue", "colors": ["#007AFF","#0A84FF","#409CFF","#4D9EFF","#0066D6"] },
+        { "name": "System Indigo", "colors": ["#5856D6","#5E5CE6","#7D7AFA","#7573E6","#4B4AC9"] },
+        { "name": "System Purple", "colors": ["#AF52DE","#BF5AF2","#CC84FA","#C27AFF","#974AC2"] },
+        { "name": "System Pink", "colors": ["#FF2D55","#FF375F","#FF6482","#FF8597","#D42245"] },
+        { "name": "System Grey", "colors": ["#8E8E93","#AEAEB2","#C7C7CC","#E5E5EA","#636366"] }
+      ]
+    }
+  ]
+}
